@@ -1,2 +1,8 @@
 # pythons_projects
-where my pthons projects are
+where my pythons projects are
+
+## To create a venv .venv:
+python -m venv .venv
+
+## To activate the venv on windows
+.venv\Scripts\activate
